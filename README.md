@@ -159,6 +159,16 @@ I build *clean, efficient software* and design *sharp, story-driven visuals*. Wh
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random quote" />
 </p>
 
+---
+
+### 🐍 Snake Around My GitHub!
+
+![GitHub Snake Dark](https://github.com/JORDANgg007/JORDANgg007/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
+
 <p align="center">
   <a href="https://github.com/JORDANgg007?tab=repositories">
     <img src="https://img.shields.io/badge/See%20My%20Work-000000?style=for-the-badge&logo=github&logoColor=white" />
