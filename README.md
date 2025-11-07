@@ -6,7 +6,7 @@
   />
 </div>
 
-<!-- GIF + Text Section -->
+<!-- Header GIF -->
 <div align="center" style="margin-top: 20px;">
   <div style="
     display:flex;
@@ -18,8 +18,8 @@
     margin:0 auto;
   ">
     <img 
-      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam05M3lxa3k1ejMzOHlkNGwxdnQybTBmMjF4M2QxdHYzZzNpOWg3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-      alt="animated gif"
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFrZXBjaW5naGVhZGxvbmc0MGJ2aHA5NTR1bG5qNTJtdnNocmd1dDV2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" 
+      alt="coding animation"
       style="width:100%;max-width:220px;height:auto;border-radius:12px;display:block;"
     />
     <div style="font-size:1.3rem;color:#eee;text-align:center;">
@@ -30,39 +30,39 @@
   </div>
 </div>
 
-<!-- Tech Icons -->
+<!-- Tech Icons (Custom Set) -->
 <p align="center" style="margin: 25px 0 10px 0; line-height: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin: 6px;"/>
+  <img src="https://img.icons8.com/color/96/javascript.png" height="40" alt="JavaScript" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/96/typescript.png" height="40" alt="TypeScript" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/96/react-native.png" height="40" alt="React" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/96/html-5.png" height="40" alt="HTML5" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/96/css3.png" height="40" alt="CSS3" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/96/python.png" height="40" alt="Python" style="margin:6px;"/>
+  <img src="https://img.icons8.com/color/96/c-sharp-logo.png" height="40" alt="C#" style="margin:6px;"/>
 </p>
 
-<!-- Social Icons -->
-<p align="center" style="margin: 10px 0 30px 0; line-height: 0;">
-  <a href="https://www.youtube.com/@jordangg007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="38" alt="youtube"/>
+<!-- Social Icons (Custom Set) -->
+<p align="center" style="margin: 15px 0 35px 0; line-height: 0;">
+  <a href="https://www.youtube.com/@jordangg007" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/youtube-play.png" height="38" alt="YouTube"/>
   </a>
-  <a href="https://instagram.com/_abhinavbora" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="38" alt="instagram"/>
+  <a href="https://instagram.com/_abhinavbora" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/instagram-new.png" height="38" alt="Instagram"/>
   </a>
-  <a href="https://www.twitch.tv/jordan_gg007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" height="38" alt="twitch"/>
+  <a href="https://www.twitch.tv/jordan_gg007" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/twitch.png" height="38" alt="Twitch"/>
   </a>
-  <a href="https://discord.gg/JNB3xp2kkQ" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="38" alt="discord"/>
+  <a href="https://discord.gg/JNB3xp2kkQ" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/discord-new-logo.png" height="38" alt="Discord"/>
   </a>
-  <a href="mailto:abhinavbora491@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="38" alt="gmail"/>
+  <a href="mailto:abhinavbora491@gmail.com" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" height="38" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="38" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/linkedin.png" height="38" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/abhinavborayt?s=21" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="38" alt="twitter"/>
+  <a href="https://x.com/abhinavborayt?s=21" target="_blank" rel="noopener noreferrer" style="margin:8px;text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/twitterx--v2.png" height="38" alt="Twitter (X)"/>
   </a>
 </p>
 
