@@ -6,15 +6,15 @@
   />
 </div>
 
-<!-- Clean GIF + text -->
+<!-- GIF + Text Section -->
 <div align="center" style="margin-top: 20px;">
   <div style="
     display:flex;
     justify-content:center;
     align-items:center;
-    gap:16px;
+    gap:20px;
     flex-wrap:wrap;
-    max-width:680px;
+    max-width:700px;
     margin:0 auto;
   ">
     <img 
@@ -22,7 +22,7 @@
       alt="animated gif"
       style="width:100%;max-width:220px;height:auto;border-radius:12px;display:block;"
     />
-    <div style="font-size:1.25rem;color:#eee;text-align:center;">
+    <div style="font-size:1.3rem;color:#eee;text-align:center;">
       ✨<br />
       <strong>Creative Coding + Design</strong><br />
       🎨🚀
@@ -30,11 +30,40 @@
   </div>
 </div>
 
-<!-- Profile counters -->
-<p align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=JORDANgg007&label=Profile+Views&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/JORDANgg007?style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Building-blueviolet?style=for-the-badge" alt="status" />
+<!-- Tech Icons -->
+<p align="center" style="margin: 25px 0 10px 0; line-height: 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin: 6px;"/>
+</p>
+
+<!-- Social Icons -->
+<p align="center" style="margin: 10px 0 30px 0; line-height: 0;">
+  <a href="https://www.youtube.com/@jordangg007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="38" alt="youtube"/>
+  </a>
+  <a href="https://instagram.com/_abhinavbora" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="38" alt="instagram"/>
+  </a>
+  <a href="https://www.twitch.tv/jordan_gg007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" height="38" alt="twitch"/>
+  </a>
+  <a href="https://discord.gg/JNB3xp2kkQ" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="38" alt="discord"/>
+  </a>
+  <a href="mailto:abhinavbora491@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="38" alt="gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="38" alt="linkedin"/>
+  </a>
+  <a href="https://x.com/abhinavborayt?s=21" target="_blank" rel="noopener noreferrer" style="text-decoration:none;margin: 6px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="38" alt="twitter"/>
+  </a>
 </p>
 
 <h1 align="center">Hi, I'm Abhinav Bora 👋</h1>
@@ -47,47 +76,44 @@
   />
 </p>
 
+<p align="center" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=JORDANgg007&label=Profile+Views&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/JORDANgg007?style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Building-blueviolet?style=for-the-badge" alt="status" />
+</p>
+
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 I build *clean, efficient software* and design *sharp, story-driven visuals*. When logic meets design, things click.
 
-- 💻 *Code:* C, Python, Java, HTML, CSS  
+- 🔧 *Code:* C, Python, Java, HTML, CSS  
 - 🎨 *Creative:* Premiere Pro, Photoshop, After Effects, Illustrator  
 - 🎮 *Also into:* Gaming, motion graphics, and content editing  
 
 ---
 
-## ⚙️ Tech Stack  
-<p align="center" style="font-size:1.15rem;">
-💛 JavaScript &nbsp;|&nbsp; 🔵 TypeScript &nbsp;|&nbsp; ⚛️ React  
-<br />
-🧱 HTML &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 💜 C#
+## ⚙ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css" height="48" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 What I’m Exploring  
-- 🤖 Creative automation with Python  
-- 🧩 Interactive and visually immersive web design  
-- 🎥 Motion graphics & digital storytelling  
+## 🚀 What I’m Exploring
+- Creative *automation with Python*  
+- *Interactive* and visually immersive web design  
+- *Motion graphics* & digital storytelling  
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center" style="font-size:1.2rem;line-height:1.8;">
-📺 <a href="https://www.youtube.com/@jordangg007" target="_blank" rel="noopener noreferrer">YouTube</a> &nbsp;•&nbsp;
-📸 <a href="https://instagram.com/_abhinavbora" target="_blank" rel="noopener noreferrer">Instagram</a> &nbsp;•&nbsp;
-🎮 <a href="https://www.twitch.tv/jordan_gg007" target="_blank" rel="noopener noreferrer">Twitch</a> &nbsp;•&nbsp;
-💬 <a href="https://discord.gg/JNB3xp2kkQ" target="_blank" rel="noopener noreferrer">Discord</a>  
-📧 <a href="mailto:abhinavbora491@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> &nbsp;•&nbsp;
-💼 <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;•&nbsp;
-🐦 <a href="https://x.com/abhinavborayt?s=21" target="_blank" rel="noopener noreferrer">Twitter</a>
-</p>
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JORDANgg007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=percentile" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JORDANgg007&layout=compact&langs_count=8" alt="top langs" />
@@ -95,7 +121,7 @@ I build *clean, efficient software* and design *sharp, story-driven visuals*. Wh
 
 ---
 
-## 🏆 Achievements & Activity  
+## 🏆 Trophies & Activity
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JORDANgg007&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JORDANgg007&radius=8&bg_color=ffffff00&color=808080&line=808080&point=808080&area=true&hide_border=true" alt="activity graph" />
@@ -103,7 +129,7 @@ I build *clean, efficient software* and design *sharp, story-driven visuals*. Wh
 
 ---
 
-## ✨ Little Extras  
+## ✨ Little Extras
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random quote" />
 </p>
