@@ -1,6 +1,3 @@
-
-###
-
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=Abhinav%20Bora&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=#42B5D4" 
@@ -9,18 +6,29 @@
   />
 </div>
 
-###
+<!-- GIF + Quick Info Section -->
+<div align="center" style="display:flex; flex-direction:row; align-items:center; justify-content:center; flex-wrap:wrap; gap:20px;">
 
-<img 
-  align="right" 
-  height="300" 
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam05M3lxa3k1ejMzOHlkNGwxdnQybTBmMjF4M2QxdHYzZzNpOWg3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-  alt="animated gif"
-/>
+  <!-- Animated GIF -->
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam05M3lxa3k1ejMzOHlkNGwxdnQybTBmMjF4M2QxdHYzZzNpOWg3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+    alt="animated gif" 
+    height="300"
+    style="border-radius:15px; box-shadow:0px 4px 20px rgba(0,0,0,0.3);"
+  />
 
-###
+  <!-- Quick Info Panels -->
+  <div style="display:flex; flex-direction:column; gap:12px; max-width:350px;">
+    <img src="https://img.shields.io/badge/Developer-C%2CC++%7CPython%7CJava-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Creative-Premiere Pro%7C Photoshop-purple?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gamer-Yes!🎮-green?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-Python-lightblue?style=for-the-badge&logo=python&logoColor=white" />
+  </div>
 
-<div align="center">
+</div>
+
+<!-- Tech Stack -->
+<div align="center" style="margin-top:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -36,44 +44,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
 
-###
-
-<div align="center">
+<!-- Social Media Links -->
+<div align="center" style="margin-top:20px;">
   <a href="https://www.youtube.com/@jordangg007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube logo" style="text-decoration:none; border:none;" />
   </a>
-  <a href="https://intagram.com/_abhinavbora" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo" />
+  <a href="https://instagram.com/_abhinavbora" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo" style="text-decoration:none; border:none;" />
   </a>
   <a href="https://www.twitch.tv/jordan_gg007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="55" height="35" alt="twitch logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="45" height="35" alt="twitch logo" style="text-decoration:none; border:none;" />
   </a>
   <a href="https://discord.gg/JNB3xp2kkQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="35" alt="discord logo" style="text-decoration:none; border:none;" />
   </a>
   <a href="mailto:abhinavbora491@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo" style="text-decoration:none; border:none;" />
   </a>
-  <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/abhinav-bora-" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo" style="text-decoration:none; border:none;" />
   </a>
   <a href="https://x.com/abhinavborayt?s=21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo" style="text-decoration:none; border:none;" />
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img 
-    src="https://count.getloli.com/@:JORDANgg007?theme=booru-helltaker&padding=4&scale=1&align=center&pixelated=0&darkmode=1" 
-    alt="profile views counter"
-  />
-</div>
-
-###
-
-<!-- Centered animated intro -->
+<!-- Intro -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="45" />
 </p>
@@ -82,7 +79,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Developer+%7C+Creative+Designer+%7C+Gamer;I+blend+code+%2B+creativity%3A+C%2C+Python%2C+Java%2C+HTML%2C+CSS;Adobe%3A+Premiere+Pro%2C+Photoshop%2C+After+Effects%2C+Illustrator" alt="typing animation" />
 </p>
 
-<!-- Quick badges -->
+<!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JORDANgg007&label=Profile+Views&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/JORDANgg007?style=for-the-badge" alt="followers" />
@@ -120,7 +117,7 @@ I build *clean, efficient software* and design *sharp, story-driven visuals*. Wh
 
 ---
 
-## 📊 GitHub Stats (Animated Panels)
+## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JORDANgg007&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=percentile" alt="stats" />
 </p>
@@ -140,34 +137,12 @@ I build *clean, efficient software* and design *sharp, story-driven visuals*. Wh
 
 ---
 
-## 🕹️ Retro Fun Zone  
-
-### 🐍 Watch the Snake Chase My Contributions  
-<p align="center">
-  <img src="https://github.com/JORDANgg007/JORDANgg007/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-### 🟡 Pac-Man Munching Through My GitHub  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JORDANgg007/JORDANgg007/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Animation" />
-</p>
-
----
-
 ## ✨ Little Extras
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random quote" />
 </p>
 
 ---
-
-### 🐍 Snake Around My GitHub!
-
-![GitHub Snake Dark](https://github.com/JORDANgg007/JORDANgg007/blob/output/github-contribution-grid-snake-dark.svg)
-
-
----
-
 
 <p align="center">
   <a href="https://github.com/JORDANgg007?tab=repositories">
