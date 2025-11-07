@@ -6,21 +6,25 @@
   />
 </div>
 
-<!-- Side-by-side gif + text (clean layout) -->
-<div align="center" style="margin-top: 20px;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<!-- Side-by-side gif + text (mobile-safe) -->
+<div align="center" style="margin-top:20px;">
+  <div style="
+    display:flex;justify-content:center;align-items:center;gap:16px;
+    flex-wrap:wrap;max-width:680px;margin:0 auto;
+  ">
     <img 
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam05M3lxa3k1ejMzOHlkNGwxdnQybTBmMjF4M2QxdHYzZzNpOWg3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-      alt="animated gif" 
-      style="max-width: 250px; height: auto; border-radius: 12px;"
+      alt="animated gif"
+      style="width:100%;max-width:220px;height:auto;border-radius:12px;display:block;"
     />
-    <div style="font-size: 1.3rem; color: #eee; text-align: center;">
+    <div style="font-size:1.25rem;color:#eee;text-align:center;">
       ✨<br />
       <strong>Creative Coding + Design</strong><br />
       🎨🚀
     </div>
   </div>
 </div>
+
 
 <!-- Tech Icons -->
 <p align="center" style="margin: 20px 0 10px 0;">
@@ -33,27 +37,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp" />
 </p>
 
-<!-- Social Icons (no bullets) -->
-<p align="center" style="list-style: none; margin: 10px 0 30px 0; padding: 0;">
-  <a href="https://www.youtube.com/@jordangg007" target="_blank" rel="noopener noreferrer">
+<!-- Social Icons (no bullets, no underlines, no blue dots) -->
+<p align="center" style="margin:12px 0 28px 0;padding:0;line-height:0;">
+  <a href="https://www.youtube.com/@jordangg007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="35" alt="youtube" />
   </a>
-  <a href="https://intagram.com/_abhinavbora" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/_abhinavbora" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="instagram" />
   </a>
-  <a href="https://www.twitch.tv/jordan_gg007" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.twitch.tv/jordan_gg007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" height="35" alt="twitch" />
   </a>
-  <a href="https://discord.gg/JNB3xp2kkQ" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/JNB3xp2kkQ" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35" alt="discord" />
   </a>
-  <a href="mailto:abhinavbora491@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:abhinavbora491@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/abhinav-bora-?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin" />
   </a>
-  <a href="https://x.com/abhinavborayt?s=21" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/abhinavborayt?s=21" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-block;line-height:0;margin:0 6px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="twitter" />
   </a>
 </p>
